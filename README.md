@@ -1,6 +1,6 @@
 # Circles
 
-A product within the **Connectify** ecosystem. Circles matches small groups of students who share interests and books an activity for them, turning online compatibility into real-world friendships.
+A product within the hypothetical **Connectify** ecosystem. Circles matches small groups of students who share interests and books an activity for them, turning online compatibility into real-world friendships.
 
 ## Mission and Vision
 
