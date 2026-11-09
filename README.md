@@ -1,6 +1,21 @@
 # Circles
 
-A product within the hypothetical **Connectify** ecosystem. Circles matches small groups of students who share interests and books an activity for them, turning online compatibility into real-world friendships.
+**Product case study for an app that matches students into small groups and books an activity, turning online compatibility into real friendships.**
+
+Stanford MS&E 165 · Product case study and prototype
+
+## Highlights
+
+- Interviewed 13 Stanford students: 62% avoid events when they don't know anyone, and 75% would try a small-group matching app
+- Designed an MVP that matches 4 to 5 students by interests, books an activity, and opens a group chat before they meet
+- Planned a go-to-market across 3 to 5 campuses with a 70% show-up target and an $800K first-year revenue goal
+- Defined 5 user segments, from campus transitioners to socially hesitant connectors
+
+## Built with
+
+TypeScript · React · Tailwind CSS
+
+---
 
 ## Mission and Vision
 
