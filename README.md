@@ -1,15 +1,15 @@
 # Circles
 
-**Product case study for an app that matches students into small groups and books an activity, turning online compatibility into real friendships.**
+**A product case study for an app that puts students into small groups by shared interests and books an activity for them.**
 
 Stanford MS&E 165 · Product case study and prototype
 
 ## Highlights
 
-- Interviewed 13 Stanford students: 62% avoid events when they don't know anyone, and 75% would try a small-group matching app
-- Designed an MVP that matches 4 to 5 students by interests, books an activity, and opens a group chat before they meet
-- Planned a go-to-market across 3 to 5 campuses with a 70% show-up target and an $800K first-year revenue goal
-- Defined 5 user segments, from campus transitioners to socially hesitant connectors
+- Learned from 13 Stanford students that 62% skip events when they don't know anyone, and 75% would try a small-group matching app
+- Designed a first version that groups 4 to 5 students by interests, books an activity, and opens a group chat before they meet
+- Planned a launch at 3 to 5 campuses with a 70% show-up target and an $800K first-year revenue goal
+- Defined 5 user groups, from students in a campus transition to those who hesitate to reach out
 
 ## Built with
 
