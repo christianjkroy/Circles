@@ -2,7 +2,7 @@
 
 **A product case study for an app that puts students into small groups by shared interests and books an activity for them.**
 
-Stanford MS&E 165 · Winter 2026 · Product case study and prototype
+Stanford MS&E 165: Introduction to Product Management · Winter 2026 · Team of 4
 
 ## Highlights
 
